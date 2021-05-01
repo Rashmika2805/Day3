@@ -1,0 +1,47 @@
+*{ 
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn4XztrqT8MOp_bQigFv3L1Dm9GLd11E1syA&usqp=CAU");
+
+
+    
+}
+#h1{
+    width:100%;
+    margin-top:15%;
+    position:absolute;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    color:darkmagenta;
+    font-family:'Oswald',sans-serif;
+    letter-spacing: 5px;
+
+}
+#clock{
+    width:95%;
+    font-size: 55px;
+    font-weight: bold;
+    text-align: center;
+    color:aqua;
+    font-family:'Roboto',sans-serif;
+    margin-top: 8%;
+    
+
+} 
+button{
+    width:10%;
+    font-size: 20px;
+    border-radius: 5px;
+    color:orangered;
+    background-color:lightslategray;
+    height: 50px;
+    margin-top: 25%;
+    text-align: center;
+    margin-left: 42%;
+    
+}
+
